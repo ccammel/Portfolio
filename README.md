@@ -11,4 +11,4 @@ How do I approach developing programs?
 
 How can computer science help me in reaching my goals?
 
-  My ultimate end goal is to get into game programming and so far computer science has helped me immensely with my coding skills. I have learned a lot of different programming languages and other differnt skills, such as UnReal. Everything has been super helpful in my goals.
+  My ultimate end goal is to get into game programming and so far computer science has helped me immensely with my coding skills. I have learned a lot of different programming languages and other different skills, such as UnReal. Everything has been super helpful in my goals.
